@@ -1,12 +1,3 @@
----
-title: "README"
-author: "JoaoEduardo"
-date: "5/12/2021"
-output: 
-  html_document:
-    keep_md: true
-    self_contained: true
----
 
 # Getting-and-Cleaning-Data-Week-4-Assignment
 
